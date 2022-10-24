@@ -1,0 +1,65 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="images\align\AlignBoth.png" />
+    <None Remove="images\align\AlignLeft.png" />
+    <None Remove="images\align\AlignRight.png" />
+    <None Remove="images\align\BulletList.png" />
+    <None Remove="images\CloseDocument.png" />
+    <None Remove="images\Copy.png" />
+    <None Remove="images\Cut.png" />
+    <None Remove="images\Document.png" />
+    <None Remove="images\fonts\Bold.png" />
+    <None Remove="images\fonts\FontColor.png" />
+    <None Remove="images\fonts\Italic.png" />
+    <None Remove="images\fonts\Underline.png" />
+    <None Remove="images\Home.png" />
+    <None Remove="images\insert\ApplicationAccess.png" />
+    <None Remove="images\insert\Image.png" />
+    <None Remove="images\insert\LineChart.png" />
+    <None Remove="images\insert\Rectangle.png" />
+    <None Remove="images\insert\Table.png" />
+    <None Remove="images\OpenFolder.png" />
+    <None Remove="images\Paste.png" />
+    <None Remove="images\PrintDialog.png" />
+    <None Remove="images\Property.png" />
+    <None Remove="images\Redo.png" />
+    <None Remove="images\SaveAll.png" />
+    <None Remove="images\Undo.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="images\align\AlignBoth.png" />
+    <Resource Include="images\align\AlignLeft.png" />
+    <Resource Include="images\align\AlignRight.png" />
+    <Resource Include="images\align\BulletList.png" />
+    <Resource Include="images\CloseDocument.png" />
+    <Resource Include="images\Copy.png" />
+    <Resource Include="images\Cut.png" />
+    <Resource Include="images\Document.png" />
+    <Resource Include="images\fonts\Bold.png" />
+    <Resource Include="images\fonts\FontColor.png" />
+    <Resource Include="images\fonts\Italic.png" />
+    <Resource Include="images\fonts\Underline.png" />
+    <Resource Include="images\Home.png" />
+    <Resource Include="images\insert\ApplicationAccess.png" />
+    <Resource Include="images\insert\Image.png" />
+    <Resource Include="images\insert\LineChart.png" />
+    <Resource Include="images\insert\Rectangle.png" />
+    <Resource Include="images\insert\Table.png" />
+    <Resource Include="images\OpenFolder.png" />
+    <Resource Include="images\Paste.png" />
+    <Resource Include="images\PrintDialog.png" />
+    <Resource Include="images\Property.png" />
+    <Resource Include="images\Redo.png" />
+    <Resource Include="images\SaveAll.png" />
+    <Resource Include="images\Undo.png" />
+  </ItemGroup>
+
+</Project>

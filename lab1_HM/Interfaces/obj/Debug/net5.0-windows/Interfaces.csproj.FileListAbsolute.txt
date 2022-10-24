@@ -1,0 +1,44 @@
+C:\Users\Dima\Desktop\Политех\3 курс\Interfaces\Interfaces\obj\Debug\net5.0-windows\Interfaces.csproj.AssemblyReference.cache
+C:\Users\Dima\Desktop\Политех\3 курс\Interfaces\Interfaces\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Dima\Desktop\Политех\3 курс\Interfaces\Interfaces\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Dima\Desktop\Политех\3 курс\Interfaces\Interfaces\obj\Debug\net5.0-windows\Interfaces_MarkupCompile.cache
+C:\Users\Dima\Desktop\Политех\3 курс\Interfaces\Interfaces\obj\Debug\net5.0-windows\Interfaces_MarkupCompile.lref
+C:\Users\Dima\Desktop\Политех\3 курс\Interfaces\Interfaces\bin\Debug\net5.0-windows\Interfaces.exe
+C:\Users\Dima\Desktop\Политех\3 курс\Interfaces\Interfaces\bin\Debug\net5.0-windows\Interfaces.deps.json
+C:\Users\Dima\Desktop\Политех\3 курс\Interfaces\Interfaces\bin\Debug\net5.0-windows\Interfaces.runtimeconfig.json
+C:\Users\Dima\Desktop\Политех\3 курс\Interfaces\Interfaces\bin\Debug\net5.0-windows\Interfaces.runtimeconfig.dev.json
+C:\Users\Dima\Desktop\Политех\3 курс\Interfaces\Interfaces\bin\Debug\net5.0-windows\Interfaces.dll
+C:\Users\Dima\Desktop\Политех\3 курс\Interfaces\Interfaces\bin\Debug\net5.0-windows\ref\Interfaces.dll
+C:\Users\Dima\Desktop\Политех\3 курс\Interfaces\Interfaces\bin\Debug\net5.0-windows\Interfaces.pdb
+C:\Users\Dima\Desktop\Политех\3 курс\Interfaces\Interfaces\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Dima\Desktop\Политех\3 курс\Interfaces\Interfaces\obj\Debug\net5.0-windows\Interfaces.g.resources
+C:\Users\Dima\Desktop\Политех\3 курс\Interfaces\Interfaces\obj\Debug\net5.0-windows\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\Desktop\Политех\3 курс\Interfaces\Interfaces\obj\Debug\net5.0-windows\Interfaces.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\Политех\3 курс\Interfaces\Interfaces\obj\Debug\net5.0-windows\Interfaces.AssemblyInfo.cs
+C:\Users\Dima\Desktop\Политех\3 курс\Interfaces\Interfaces\obj\Debug\net5.0-windows\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\Политех\3 курс\Interfaces\Interfaces\obj\Debug\net5.0-windows\Interfaces.dll
+C:\Users\Dima\Desktop\Политех\3 курс\Interfaces\Interfaces\obj\Debug\net5.0-windows\ref\Interfaces.dll
+C:\Users\Dima\Desktop\Политех\3 курс\Interfaces\Interfaces\obj\Debug\net5.0-windows\Interfaces.pdb
+C:\Users\Dima\Desktop\Политех\3 курс\Interfaces\Interfaces\obj\Debug\net5.0-windows\Interfaces.genruntimeconfig.cache
+C:\Users\madma\Desktop\Interfaces\Interfaces\bin\Debug\net5.0-windows\Interfaces.exe
+C:\Users\madma\Desktop\Interfaces\Interfaces\bin\Debug\net5.0-windows\Interfaces.deps.json
+C:\Users\madma\Desktop\Interfaces\Interfaces\bin\Debug\net5.0-windows\Interfaces.runtimeconfig.json
+C:\Users\madma\Desktop\Interfaces\Interfaces\bin\Debug\net5.0-windows\Interfaces.runtimeconfig.dev.json
+C:\Users\madma\Desktop\Interfaces\Interfaces\bin\Debug\net5.0-windows\Interfaces.dll
+C:\Users\madma\Desktop\Interfaces\Interfaces\bin\Debug\net5.0-windows\Interfaces.pdb
+C:\Users\madma\Desktop\Interfaces\Interfaces\obj\Debug\net5.0-windows\Interfaces.csproj.AssemblyReference.cache
+C:\Users\madma\Desktop\Interfaces\Interfaces\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\madma\Desktop\Interfaces\Interfaces\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\madma\Desktop\Interfaces\Interfaces\obj\Debug\net5.0-windows\Interfaces_MarkupCompile.cache
+C:\Users\madma\Desktop\Interfaces\Interfaces\obj\Debug\net5.0-windows\Interfaces_MarkupCompile.lref
+C:\Users\madma\Desktop\Interfaces\Interfaces\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\madma\Desktop\Interfaces\Interfaces\obj\Debug\net5.0-windows\Interfaces.g.resources
+C:\Users\madma\Desktop\Interfaces\Interfaces\obj\Debug\net5.0-windows\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madma\Desktop\Interfaces\Interfaces\obj\Debug\net5.0-windows\Interfaces.AssemblyInfoInputs.cache
+C:\Users\madma\Desktop\Interfaces\Interfaces\obj\Debug\net5.0-windows\Interfaces.AssemblyInfo.cs
+C:\Users\madma\Desktop\Interfaces\Interfaces\obj\Debug\net5.0-windows\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\madma\Desktop\Interfaces\Interfaces\obj\Debug\net5.0-windows\Interfaces.dll
+C:\Users\madma\Desktop\Interfaces\Interfaces\obj\Debug\net5.0-windows\refint\Interfaces.dll
+C:\Users\madma\Desktop\Interfaces\Interfaces\obj\Debug\net5.0-windows\Interfaces.pdb
+C:\Users\madma\Desktop\Interfaces\Interfaces\obj\Debug\net5.0-windows\Interfaces.genruntimeconfig.cache
+C:\Users\madma\Desktop\Interfaces\Interfaces\obj\Debug\net5.0-windows\ref\Interfaces.dll
