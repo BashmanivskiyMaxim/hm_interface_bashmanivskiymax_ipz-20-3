@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\madma\\Desktop\\Interfaces\\Interfaces\\Interfaces.csproj": {}
+    "C:\\Users\\madma\\source\\repos\\HM_Interface\\lab1_HM\\Interfaces\\Interfaces.csproj": {}
   },
   "projects": {
-    "C:\\Users\\madma\\Desktop\\Interfaces\\Interfaces\\Interfaces.csproj": {
+    "C:\\Users\\madma\\source\\repos\\HM_Interface\\lab1_HM\\Interfaces\\Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\madma\\Desktop\\Interfaces\\Interfaces\\Interfaces.csproj",
+        "projectUniqueName": "C:\\Users\\madma\\source\\repos\\HM_Interface\\lab1_HM\\Interfaces\\Interfaces.csproj",
         "projectName": "Interfaces",
-        "projectPath": "C:\\Users\\madma\\Desktop\\Interfaces\\Interfaces\\Interfaces.csproj",
+        "projectPath": "C:\\Users\\madma\\source\\repos\\HM_Interface\\lab1_HM\\Interfaces\\Interfaces.csproj",
         "packagesPath": "C:\\Users\\madma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\madma\\Desktop\\Interfaces\\Interfaces\\obj\\",
+        "outputPath": "C:\\Users\\madma\\source\\repos\\HM_Interface\\lab1_HM\\Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\madma\\AppData\\Roaming\\NuGet\\NuGet.Config",
